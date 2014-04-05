@@ -1,0 +1,109 @@
+No test case supplied. Randomly choosing among defaults.
+Building your code via `build.sh`.
+Done building your code.
+About to run test case: level2-aUSeyGpde8
+Beginning run.
+The backend is up and listening.
+The backend is up and listening.
+The shield is up and listening.
+Using seed 94fea7af56bdbcb75201fe0377c2904496a6a13f567530d3835509a34ec6aabf
+Checking if backends are up.
+Upstream server is up.
+Upstream server is up.
+Upstream server is up.
+Scoring now
+Round
+IP A3BN35VE (mouse): 2
+IP WNFMDQ7R (mouse): 2
+IP FFNVAIJQ (mouse): 2
+IP VH9CRCI8 (mouse): 2
+Round
+IP A3BN35VE (mouse): 2
+IP WNFMDQ7R (mouse): 2
+IP FFNVAIJQ (mouse): 2
+IP VH9CRCI8 (mouse): 2
+Round
+IP 3TJIPKH2 (mouse): 2
+IP JFCPXES1 (mouse): 2
+Round
+IP 3TJIPKH2 (mouse): 2
+IP JFCPXES1 (mouse): 2
+Round
+IP BIT4F0ID (mouse): 2
+IP 6EW8H95E (mouse): 2
+IP O5WAJKT2 (mouse): 2
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Round
+No mice got through this round.
+Number of total responses 522
+Number of good responses: 30
+Number of responses less than ideal: 544.6666666666667
+Finished run
+Test case passed. Your score: 0.010000. Benchmark score: 124.791667. You/Benchmark: 0.000080.You handled 30 legitimate responses and you received 68.08 negative points for idle time on the backends. The benchmark handled 217 and received 92.21 negative points.
