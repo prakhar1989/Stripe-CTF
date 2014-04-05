@@ -1,0 +1,16 @@
+#!/usr/bin/python
+import sys
+
+path = sys.argv[1] if len(sys.argv) > 1 else "/usr/share/dict/words"
+entries = set(open(path, 'r').read().split('\n'))
+
+lines = sys.stdin.read().split('\n')
+last = len(lines) - 1
+for index, line in enumerate(lines):
+	for word in line.split():
+		if str.lower(word) in entries:
+			print word,
+		else:
+			print "<%s>" % word,
+	if index != last:
+		print
